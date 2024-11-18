@@ -1,3 +1,29 @@
+/* ad specific css-------------*/
+#ad{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: white;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+#ad button {
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 50%;
+}
+
+#ad img {
+    width: 180px;
+    height: 180px;
+}
+/*---------------------------- */
+
 html, body {
     height: 100%;
     width: 100%;
